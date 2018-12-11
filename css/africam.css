@@ -1,0 +1,28 @@
+.link 
+{
+	text-decoration:none;
+	color:black;
+}
+
+.link:hover
+{
+	font-weight:600;
+}
+
+.logomas img
+{
+	max-height:30px;
+	max-width:30px;
+}
+
+.logomas img:hover
+{
+	max-height:33px;
+	max-width:33px;	
+}
+
+.logomas
+{
+	margin-left:1%;
+	font-weight:600;
+}

@@ -1,0 +1,15 @@
+/*Estilo de la barra de navegacion*/
+@import "menu.css";
+@import "africam.css";
+
+/*Estilo del mensaje de alerta*/
+#mensaje
+{
+	color:red;	
+}
+
+#ingresar
+{
+
+}
+

@@ -1,0 +1,119 @@
+*conexion.php				//Conexión a la base de datos
+	
+*login.php				//Ingresar al sistema
+
+logout.php				//Salir del sistema
+
+header.php				//Datos básicos y menú
+
+inicio.php				//Contenido
+
+
+	/datos
+*datos.php				//Datos de usuario
+
+cambiar-usuario.php			//Cambiar usuario
+
+*verifica-usuario.php			//Verifica si el usuario ya existe
+
+*actualiza-usuario.php			//Actualiza usuario
+
+cambiar-correo.php			//Cambiar correo
+
+*actualiza-correo.php			//Actualiza correo
+
+cambiar-password.php			//Cambiar contraseña
+
+*actualiza-password.php			//Actualiza contraseña
+
+
+	/gerencias
+gerencia.php				//Muestra información básica de gerencias
+
+crear-gerencia.php			//Crear gerencia			
+
+*inserta-gerencia.php			//Insertar gerencia
+
+cambiar-gerencia.php			//Cambiar gerencia
+
+*actualiza-gerencia.php			//Actualiza gerencia
+
+*muestra-gerencia.php			//Despliega gerencias habilitadas
+
+*muestra-gerencia-inhabilitada.php	//Despliega gerencias inhabilitadas
+
+baja-gerencia.php			//Dar de baja gerencia
+
+*inhabilitar-gerencia.php		//Inhabilitar gerencia
+
+alta-gerencia.php			//Dar de alta gerencia
+
+habilitar-gerencia.php			//Habilitar gerencia
+
+
+	/puestos
+puesto.php				//Muestra información básica de puestos
+
+crear-puesto.php			//Crear un puesto
+
+*inserta-puesto.php			//Inserta puesto
+
+cambiar-puesto.php			//Cambiar puesto
+
+*actualiza-puesto.php			//Actualiza puesto
+
+*muestra-puesto.php			//Despliega puestos habilitados de acuerdo a una gerencia
+
+*muestra-puesto-inhabilitado.php	//Despliega puestos inhabilitados de acuerdo a una gerencia
+
+baja-puesto.php				//Dar de baja puesto
+
+*inhabilitar-puesto.php			//Inhabilitar puesto
+
+alta-puesto.php				//Dar de alta puesto
+
+*habilitar-puesto.php			//Habilitar puesto
+
+
+	/empleados
+empleado.php				//Despliega resultados de la busqueda	
+
+*busca-empleado.php			//Busca un empleado 
+
+*cambiar-empleado.php			//Cambia los datos del empleado
+
+*verifica-nomina.php			//Verifica si la nomina ya existe
+
+*muestra_gerencia.php			//Despliega gerencias con puestos asignados
+
+*actualiza-empleado.php			//Actualiza los datos del empleado
+
+*inhabilitar-empleado.php		//Inhabilitar empleado
+
+crear-empleado.php			//Crear un empleado
+
+*inserta-empleado.php			//Inserta empleado
+		
+*alta-empleado.php			//Dar de alta empleado
+
+*habilitar-empleado			//Habilitar empleado
+
+
+	/encuestas
+*encuesta.php				//Despliega las encuestas creadas	
+	
+*crear-encuesta.php			//Crea una encuesta
+
+*cambiar-encuesta.php			//Cambia el contenido de la encuesta	
+
+
+***Encriptación de passwords
+**Verificar correo en datos y empleados
+***Desplegar, en cambiar puestos, solo gerencias que tengan puestos
+***Desplegar, en baja de puestos, solo gerencias que tengan puestos habilitados
+***Desplegar, en alta de puestos, solo gerencias que tengan puestos inhabilitados
+
+
+
+
+
